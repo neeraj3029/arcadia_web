@@ -1,2 +1,5 @@
 
 *.pyc
+/arc/teams/migrations/*
+.idea
+.DS_Store
